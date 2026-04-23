@@ -6,7 +6,7 @@ This repository contains my learning and practice notebooks covering Machine Lea
 ## Project Structure
 ## Project Structure
 
-- **nlp/** → Natural Language Processing (Sentiment Analysis, Word2Vec, SpaCy)
+- **NLP/** → Natural Language Processing (Sentiment Analysis, Word2Vec, SpaCy)
 - **computer-vision/** → Image classification using CNN (Dogs vs Cats, Bird Species)
 - **machine-learning/** → ML models (Car Price Prediction, Customer Churn)
 - **basics/** → Python fundamentals (NumPy, Pandas, Matplotlib)
